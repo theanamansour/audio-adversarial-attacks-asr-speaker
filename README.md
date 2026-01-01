@@ -1,4 +1,4 @@
-# EECE 490 Project #9: Audio Adversarial Attacks and Evaluation
+# EECE 490 Project
 
 This project evaluates how synthetic audio perturbations impact automatic speech recognition (ASR) and speaker recognition. It preprocesses a small MP3 dataset, applies attack transformations, transcribes audio with Whisper, computes word error rate (WER), and measures speaker embedding similarity with SpeechBrain.
 
